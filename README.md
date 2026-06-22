@@ -30,12 +30,6 @@ A travel-based web application built using HTML, CSS, Django, Python and backend
 
 **Tech Used: HTML, CSS, Django, Python, SQLite
 
-## 📊 GitHub Stats
-
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavNAGPAL77&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavNAGPAL77&layout=compact&theme=tokyonight)
-
 ## 📫 Connect With Me
 
 - GitHub: [pranavNAGPAL77](https://github.com/pranavNAGPAL77)
